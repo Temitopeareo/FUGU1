@@ -60,7 +60,7 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "💞" }, async (de
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑴𝒆𝒈𝒂𝒕𝒓𝒐𝒏-𝑩𝒐𝒕!* 𝒉𝒆𝒓𝒆 𝒊𝒔 𝒕𝒉𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒏𝒖𝒎𝒃𝒆𝒓𝒔:\n\n";
+    let message = "👋 *𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 Abro-𝑩𝒐𝒕!* 𝒉𝒆𝒓𝒆 𝒊𝒔 𝒕𝒉𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒏𝒖𝒎𝒃𝒆𝒓𝒔:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,7 +95,6 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254790593618`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/2348100151048`},{quoted :ms})
 
 })
-
