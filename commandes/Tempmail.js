@@ -1,12 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "tempmail", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "tempmail", reaction: "🤖", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '*𝑴𝑬𝑮𝑨𝑻𝑹𝑶𝑵-𝑩𝑶𝑻* Temporary emails,Powered by *𝑲𝒊𝒎𝒎𝒚* \n\n ' + "Click the link below to create unlimited TEMPORARY Emails. Powered by *𝑴𝑬𝑮𝑨𝑻𝑹𝑶𝑵.*";
-    let d = ' https://tempmailpro.app';
+    let z = '*ABRO BOT* Temporary emails,Powered by *Abrotech* \n\n ' + "Click the link below to create unlimited TEMPORARY Emails for HEROKU ACCOUNT. Powered by *ABRO-TECH.*";
+    let d = ' https://myguru.mail';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/bcf5cec3445652ab197bc.jpg';
+    var img = 'https://imgur.com/7doiWDc.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -19,9 +19,9 @@ console.log("mon test");
 
 async function  execute  (origineMessage,zok) {
   console.log("Commande saisie !!!s")
-   let z ='Salut je m\'appelle *MEGATRON-BOT* \n\n '+'je suis un bot Whatsapp Multi-appareil '
-      let d =' developpé par *Kimmy*'
+   let z ='Salut je m\'appelle *ABRO BOT* \n\n '+'je suis un bot Whatsapp Multi-appareil '
+      let d =' developpé par *Abrotech*'
       let varmess=z+d
-      var img='https://telegra.ph/file/bcf5cec3445652ab197bc.jpg'
+      var img='https://imgur.com/7doiWDc.jpg'
 await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
 }  */ 
