@@ -15,7 +15,7 @@ zokou({
   const { ms, repondre, arg } = commandeOptions;
      
   if (!arg[0]) {
-    repondre("wich song do you want.");
+    repondre("which song do you want.");
     return;
   }
 
@@ -127,8 +127,7 @@ _*On downloading...*_\n\n`
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*༒𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍𖤍༒*", gifPlayback: false }, { quoted: ms });
-      });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*ABRO TECH*;
 
       fileStream.on('error', (error) => {
         console.error('Erreur lors de l\'écriture du fichier vidéo :', error);
