@@ -62,3 +62,27 @@ await zk.sendMessage(dest, { image: res, caption: '𝑾𝒆𝒃 𝑺𝒄𝒓𝒆
 
 }
 );
+
+
+
+zokou({
+    nomCom: 'abrodev',
+    desc: 'Get developer image and info',
+    Categorie: 'General',
+    reaction: '👨‍💻',
+    fromMe: 'true',
+},
+async (dest, zk, commandeOptions) => {
+    const { ms, repondre } = commandeOptions;
+
+    // Developer information
+    const developerInfo = {
+        name: 'Dev Temitope',
+        role: 'Short time developer',
+        about: 'Passionate about building web applications and exploring new technologies.',
+        image: 'https://imgur.com/nxZcCPl.jpg' // Replace with actual image URL
+    };
+
+    // Send developer image and info
+    await zk.sendMessage(dest, { image: developerInfo.image, caption: `*Developer Info:*\nName: ${developerInfo.name}\nRole: ${developerInfo.role}\nAbout: ${developerInfo.about}` }, { quoted: ms });
+});
