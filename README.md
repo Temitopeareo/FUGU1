@@ -11,11 +11,11 @@
 **📌DEPLOY ON HEROKU**
    - ***Click [`FORK`](https://github.com/Temitopeareo/FUGU1/fork) and `Star ⭐ Repository` for Courage.***
 ---
-   - ***`Get Session` by  [`CONTACTxREPO`](https://megatronkim-c3bee4d3c846.herokuapp.com/)
+   - ***`Get Session` by  [`CONTACTxREPO`](https://abrotechqr-4fb72957cd76.herokuapp.com/)
 ---
-   - ***`Get Session` by  [`PAIRING CODE`](https://abrotech-qr-acb8c4a29a5d.herokuapp.com/pair)
+   - ***`Get Session` by  [`PAIRING CODE`](https://abrotechqr-4fb72957cd76.herokuapp.com/pair)
 ---
-   - ***`Get Session` by  [`QR CODE`](https://abrotech-qr-acb8c4a29a5d.herokuapp.com/qr) Then `Go-to Whatapp>Three dots>Linked Devices`***
+   - ***`Get Session` by  [`QR CODE`](https://https://abrotechqr-4fb72957cd76.herokuapp.com/qr) Then `Go-to Whatapp>Three dots>Linked Devices`***
    - You will get a session ID in WhatsApp, copy the ID only.
 ---
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
