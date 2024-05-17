@@ -150,7 +150,7 @@ mediamsg = msgRepondu.videoMessage
   var stick = await zk.downloadAndSaveMediaMessage(mediamsg)
 
      let stickerMess = new Sticker(stick, {
-            pack: '༒𝐃𝚫𝚳𝚯𝚴𖤍༒',
+            pack: '𖤍ABRO-TECH',
             
             type: StickerTypes.CROPPED,
             categories: ["🤩", "🎉"],
@@ -252,7 +252,7 @@ zokou({ nomCom: "write", categorie: "Conversion", reaction: "👨🏿‍💻" },
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: '𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍 𝐁𝐎𝐓',
+      author: 'ABROMD BOT',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
