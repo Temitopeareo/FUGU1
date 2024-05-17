@@ -1,5 +1,5 @@
  <h1 align="center"> ABRO 𝐁𝐎𝐓  </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1150&height=100&lines=MEGATRON BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DAMON+KIMMY; RELEASED+BY+MOGIRE.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1150&height=100&lines=MEGATRON BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ABRO+TECH; RELEASED+BY+ABRO.2024" alt="Typing SVG" /></a>
   </p>
 
 
@@ -8,10 +8,15 @@
 ### Setup
 
 **📌DEPLOY ON HEROKU**
-   - ***Click [`FORK`](https://github.com/Madmkisii/Megatron-Bot/fork) and `Star ⭐ Repository` for Courage.***
-   - ***`Get Session` by  [`PAIRING CODE`](https://megatronkim-c3bee4d3c846.herokuapp.com/)
-   - ***`Get Session` by  [`QR CODE`](https://megatronkim-c3bee4d3c846.herokuapp.com/qr) Then `Go-to Whatapp>Three dots>Linked Devices`***
+   - ***Click [`FORK`](https://github.com/Temitopeareo/FUGU1/fork) and `Star ⭐ Repository` for Courage.***
+---
+   - ***`Get Session` by  [`CONTACTxREPO`](https://megatronkim-c3bee4d3c846.herokuapp.com/)
+---
+   - ***`Get Session` by  [`PAIRING CODE`](https://abrotech-qr-acb8c4a29a5d.herokuapp.com/pair)
+---
+   - ***`Get Session` by  [`QR CODE`](https://abrotech-qr-acb8c4a29a5d.herokuapp.com/qr) Then `Go-to Whatapp>Three dots>Linked Devices`***
    - You will get a session ID in WhatsApp, copy the ID only.
+---
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
    - ***Now [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/FUGU1).***
 
