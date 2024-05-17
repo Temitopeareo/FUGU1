@@ -5,6 +5,7 @@
 
 
 <img src="https://imgur.com/7doiWDc.jpg" width="650" height="500"/>
+
 ### Setup
 
 **📌DEPLOY ON HEROKU**
@@ -19,7 +20,7 @@
 ---
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
    - ***Now [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/FUGU1).***
-
+---
 
 ## Contributions.  
 
@@ -27,12 +28,11 @@ Contributions to Megatron-Bot are welcome! if you have ideas for new features, i
 
 ## License
 
-The Megatron-Bot is released under the [MIT License](https://opensource.org/licenses/MIT).
+The Abrotech-Bot is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the Megatron-Bot to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the Abrotech-Bot to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
+- [**`WhatsApp`**](https://wa.me/2348100151048)
 
-- [**Instagram**](https://instagram.com/Kimmy31)
-- [**WhatsApp**](https://wa.me/254790593618)
-
+### CREDIT
