@@ -17,7 +17,7 @@
     "whatsapp-bot",
     "damon"
   ],
-  "author": "Damon",
+  "author": "Abrotech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
