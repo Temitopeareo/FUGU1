@@ -15,7 +15,7 @@ zokou({ nomCom: 'ping',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
     const { start} = new Date().getTime()
-    return repondre('*𝐌𝐞𝐠𝐚𝐭𝐫𝐨𝐧!!*\n ```' + 7000 + '``` *𝐌𝐬*') 
+    return repondre('*Abro!!*\n ```' + 7000 + '``` *𝐌𝐬*') 
     const { end } = new Date().getTime()
     await zok.sendMessage('*Pong!*\n ```' + (end - start) + '``` *ms*')
   }
