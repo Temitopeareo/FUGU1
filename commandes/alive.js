@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *𝑴𝑬𝑮𝑨𝑻𝑹𝑶𝑵-𝑩𝑶𝑻 𝒃𝒚 𝑫𝒂𝒎𝒐𝒏 𝒊𝒔 𝒂𝒍𝒊𝒗𝒆*`
+ *ABROTECH-BOT 𝒃𝒚 Abro 𝒊𝒔 𝒂𝒍𝒊𝒗𝒆*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
