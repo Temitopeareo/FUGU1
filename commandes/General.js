@@ -55,12 +55,12 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "💞" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Damon", numero: "254790593618" },
-      { nom: "᚛Damon᚜", numero: "254102350531" },
+      { nom: "Damon", numero: "2348100151048" },
+      { nom: "᚛Damon᚜", numero: "2348184152559" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑴𝒆𝒈𝒂𝒕𝒓𝒐𝒏-𝑩𝒐𝒕!* 𝒉𝒆𝒓𝒆 𝒊𝒔 𝒕𝒉𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒏𝒖𝒎𝒃𝒆𝒓𝒔:\n\n";
+    let message = "👋 *𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 ABRO-BOT!* 𝒉𝒆𝒓𝒆 𝒊𝒔 𝒕𝒉𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒏𝒖𝒎𝒃𝒆𝒓𝒔:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
