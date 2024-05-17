@@ -145,7 +145,7 @@ zokou({
       // Si la requête a réussi, envoyez l'image résultante
       
       let stickerMess = new Sticker(response.data.result, {
-        pack: 𝛫𝛪𝛭𝛭𝑌,
+        pack: ABRO,
         type: StickerTypes.CROPPED,
         categories: ["🤩", "🎉"],
         id: "12345",
