@@ -196,7 +196,7 @@ zokou({ nomCom: "demote", categorie: 'Group', reaction: "👨🏿‍💼" }, asy
         else { return repondre("I am not admin.") }
 
       } else { repondre("please tag the member to be removed"); }
-    } else { return repondre("F*ckin h*e command is for admina.") }
+    } else { return repondre("F*ckin h*e command is for admin.") }
   } catch (e) { repondre("oups " + e) }
 
 })
