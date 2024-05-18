@@ -4,7 +4,7 @@ zokou({ nomCom: "hacker",
     categorie: "Logo", reaction: "👨🏿‍💻" }, async (origineMessage, zk, commandeOptions) => {
     const { prefixe, arg, ms, repondre } = commandeOptions;
     if (!arg || arg == "") {
-        repondre("*__Exemple : * " + prefixe + "hacker Kimmy");
+        repondre("*__Exemple : * " + prefixe + "hacker ABRO");
         return;
     }
     try {
@@ -244,7 +244,7 @@ var lien="https://en.ephoto360.com/boom-text-comic-style-text-effect-675.html";
 repondre("  processing ...")
          await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo byABROTECH-BOT*"})
          
-        // await zk.sendMessage(dest,{image:{url:lienImage},caption:"\t *Logo by Megatron-Bot*"})
+        // await zk.sendMessage(dest,{image:{url:lienImage},caption:"\t *Logo by ABROTECH-Bot*"})
          
 
 
