@@ -1,5 +1,5 @@
 {
-  "name": "MEGATRON BOT",
+  "name": "ABROTECH BOT",
   "version": "2.0.0",
   "description": "",
   "main": "flash.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Megatron-Bot",
+    "Abrotech-Bot",
     "whatsapp",
     "whatsapp-bot",
     "damon"
   ],
-  "author": "Damon",
+  "author": "Abro",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
