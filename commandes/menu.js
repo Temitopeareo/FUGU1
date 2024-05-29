@@ -43,8 +43,8 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────𖤍 ABROTECH BOT 𖤍────◆
-│🤖 *Préfix* : ${s.PREFIXE}
+╭────𖤍ABROTECH BOT𖤍────◆
+│🤖 *Prefix* : ${s.PREFIXE}
 │🤖 *User* : ${s.OWNER_NAME}
 │🤖 *Mode* : ${mode}
 │🤖 *Commands* : ${cm.length} 
@@ -73,7 +73,7 @@ const date = moment().format('DD/MM/YYYY');
 
     menuMsg += `
 ◇            ◇
-*————— ★ —————*
+*—————🤖★🤖—————*
 
   *ABRO TECH*                                   
 *╰═════════════⊷*
